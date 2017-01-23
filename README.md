@@ -1,2 +1,2 @@
 # Часы на CSS
-[Demo]([https://leonidfeskov.github.io/clock/)
+[Demo](https://leonidfeskov.github.io/clock/)
